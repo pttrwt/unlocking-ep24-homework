@@ -1,0 +1,11 @@
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\bin\Debug\netcoreapp2.0\temperature.deps.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\bin\Debug\netcoreapp2.0\temperature.runtimeconfig.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\bin\Debug\netcoreapp2.0\temperature.runtimeconfig.dev.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\bin\Debug\netcoreapp2.0\temperature.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\bin\Debug\netcoreapp2.0\temperature.pdb
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.csprojAssemblyReference.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.csproj.CoreCompileInputs.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.AssemblyInfoInputs.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.AssemblyInfo.cs
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature\obj\Debug\netcoreapp2.0\temperature.pdb

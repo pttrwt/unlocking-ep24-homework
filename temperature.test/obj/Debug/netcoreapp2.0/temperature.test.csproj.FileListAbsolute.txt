@@ -1,0 +1,17 @@
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.test.deps.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.test.runtimeconfig.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.test.runtimeconfig.dev.json
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.test.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.test.pdb
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\bin\Debug\netcoreapp2.0\temperature.pdb
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.csprojAssemblyReference.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.csproj.CoreCompileInputs.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.AssemblyInfoInputs.cache
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.AssemblyInfo.cs
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.csproj.CopyComplete
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.dll
+D:\Main Directory\Project\UTFC\EP27 Homework\unlocking-ep27-master\temperature.test\obj\Debug\netcoreapp2.0\temperature.test.pdb
